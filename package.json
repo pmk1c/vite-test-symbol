@@ -6,7 +6,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.3.8"
+    "vite": "^2.9.16"
   },
   "dependencies": {
     "@jumpn/utils-composite": "^0.7.0"
